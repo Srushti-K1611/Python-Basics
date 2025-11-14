@@ -4,7 +4,9 @@
 
 *Name*:Srushti Khanase
 
-*Domain*:3 Months
+*Domain*:Data science
+
+*Duration*:3 Months
 
 *Task*:Create a Personal Introduction Program that asks for user's name, age, and hobby, then displays a friendly welcome message with their information
 
