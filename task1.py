@@ -1,0 +1,9 @@
+print("Hey there! Let's get to know you a little better.")
+
+name = input("What's your name? ")
+age = input(f"Nice to meet you, {name}. How old are you? ")
+hobby = input("Great. And what's something you enjoy doing in your free time? ")
+
+print("\n--- Your Introduction ---")
+print(f"{name}, you are {age} years old and you enjoy {hobby}.")
+print("It's nice getting to know you.")
